@@ -1,0 +1,1 @@
+generate a code to add 2 numbers
